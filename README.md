@@ -1,6 +1,6 @@
 # My Own MVC
 
-##Présentation
+## Présentation
 Ce framework PHP vous permet de réaliser rapidement et efficacement vos sites.
 Sa force réside dans sa simplicité et la rapidité d'apprentissage qui en
 découle.
@@ -22,7 +22,9 @@ Pour l'essayer :
         log : regular@test.dev
         mdp : regular
 
-##Prérequis au fonctionnement
+-----------------
+
+## Prérequis au fonctionnement
 * Si vous souhaitez essayer ce framework en local, afin de répondre aux 
 attentes du routeur, le dossier contenant le site devra être placé dans
 un **vitrualhost** afin de simuler un nom de domaine à votre site.
