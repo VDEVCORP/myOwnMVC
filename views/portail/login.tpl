@@ -12,7 +12,7 @@
 	<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
 	<![endif]-->
 
-    <title>Agrur | Login</title>
+    <title>VDEV+ | Framework</title>
 
     <link href="/includes/css/bootstrap.min.css" rel="stylesheet">
     <link href="/includes/css/style.css" rel="stylesheet">

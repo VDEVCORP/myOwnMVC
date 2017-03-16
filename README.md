@@ -27,7 +27,7 @@ Pour l'essayer :
 ## Prérequis au fonctionnement
 * Si vous souhaitez essayer ce framework en local, afin de répondre aux 
 attentes du routeur, le dossier contenant le site devra être placé dans
-un **vitrualhost** afin de simuler un nom de domaine à votre site.
+un **virtualhost** afin de simuler un nom de domaine à votre site.
 * Une fois le nom de domaine choisis vous devrez le renseigner dans le
 fichier de configuration à la racine du projet dans la contante
 "**DOMAIN_NAME**" où est par défaut affecté "dev.myownmvc".
